@@ -1,0 +1,59 @@
+I"6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article
+  class="project-card"
+  vocab="http://schema.org/" typeof="CreativeWork" resource="/projects/hy-components/#project"
+  >
+  <meta property="name" content="hy-components"/>
+  <meta property="image" content="/assets/img/projects/hy-push-state.svg"/>
+
+  <a href="/projects/hy-components/" class="no-hover no-print-link flip-project" tabindex="-1">
+    <div class="project-card-img aspect-ratio sixteen-nine flip-project-img">
+      
+        
+
+
+<img
+  
+    src="/assets/img/projects/hy-push-state.svg"
+  
+  alt="hy-components"
+  
+  
+  width="864"
+  height="486"
+  loading="lazy"
+/>
+
+      
+    </div>
+  </a>
+  <h3 class="project-card-title flip-project-title">
+    <a href="/projects/hy-components/" class="flip-title" property="mainEntityOfPage">hy-components</a>
+  </h3>
+  
+    <p class="project-card-text fine" property="disambiguatingDescription">
+      Hydejack as a product page.
+
+    </p>
+  
+  
+  <a class="fill-card no-hover" href="/projects/hy-components/" tabindex="-1"><span class="sr-only">Continue reading hy-components
+</span></a>
+</article>
+:ET

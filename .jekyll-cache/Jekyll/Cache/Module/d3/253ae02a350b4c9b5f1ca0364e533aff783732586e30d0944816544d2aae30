@@ -1,0 +1,198 @@
+I"�
+
+
+
+
+
+<article id="post-blog-data_analytics-what-is-data-science" class="page post mb6" role="article">
+  <header>
+    <h1 class="post-title flip-project-title">
+      
+        What is Data Science?
+      
+    </h1>
+
+    <div class="post-date">
+      
+        
+        <time datetime="2020-08-20T00:00:00-07:00">20 Aug 2020</time>
+      
+      
+      
+      
+      
+      
+
+
+
+
+
+
+
+
+
+in <a href="/blog/data-analytics/" class="flip-title">Data Analytics</a>
+
+      
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+    
+    
+      
+        <div class="lead aspect-ratio sixteen-nine flip-project-img">
+          
+
+
+<img
+  
+    src="/assets/img/blog/Data_Science_VD.jpg"
+  
+  alt="What is Data Science?"
+  
+  
+  width="864"
+  height="486"
+  loading="lazy"
+/>
+
+        </div>
+      
+      
+    
+
+    
+
+
+
+  
+    <p class="note-sm" >
+      When I first became interested in Data Science, the first thing I did was try to understand exactly what it was.  Googling around, I found an article that included an interesting <a href="http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram">Venn Diagram</a>.
+
+    </p>
+  
+
+
+  </header>
+
+  
+    <p class="lead">This diagram does a pretty nice job is showing the constituent parts of “Data Science”.</p>
+
+<!--- Comments are Fun  ![image-title-here](/assets/img/blog/Data_Science_VD.png){:class="img-responsive"} --->
+
+<!--- ![image-title-here](/assets/img/blog/Data_Science_VD.png){:height="700px" width="400px"} --->
+
+<p>The diagram shows that Data Science really needs a combination of three skill-sets: <a href="#hacking-skills">Hacking Skills</a>, <a href="#math-and-statistics-knowledge">Math and Statistics Knowledge</a>, and <a href="#substantive-expertise">Substantive Expertise</a>.
+True Data Science would be where these three disciplines intersect:</p>
+
+<p align="center">
+  <img alt="img-name" src="/assets/img/blog/Data_Science_VD2.jpg" width="410" />
+  <br />
+    <em>Real Data Science</em>
+</p>
+
+<!---  ![image-title-here](/assets/img/blog/Data_Science_VD2.jpg){:width="410px"} --->
+
+<p>Drew Conway, Co-author of Machine Learning for Hackers <sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote">1</a></sup>, makes special mention of what he calls
+the <a href="#danger-zone">Danger Zone</a>, or where he classifies people who know “enough to be dangerous”:</p>
+
+<p align="center">
+  <img alt="img-name" src="/assets/img/blog/Data_Science_VD3.jpg" width="410" />
+  <br />
+    <em>The "Danger Zone"</em>
+</p>
+
+<ul class="large-only" id="markdown-toc">
+  <li><a href="#hacking-skills" id="markdown-toc-hacking-skills">Hacking Skills</a></li>
+  <li><a href="#math-and-statistics-knowledge" id="markdown-toc-math-and-statistics-knowledge">Math and Statistics Knowledge</a></li>
+  <li><a href="#substantive-expertise" id="markdown-toc-substantive-expertise">Substantive Expertise</a></li>
+  <li><a href="#danger-zone" id="markdown-toc-danger-zone">Danger Zone</a></li>
+</ul>
+
+<h2 id="hacking-skills">Hacking Skills</h2>
+
+<p>You could consider Hacking Skills to be a flavor of programming skills, but more specifically
+the skills necessary to “ready” the data necessary for any data analysis project.
+Sometimes this is referred to as <a href="https://en.wikipedia.org/wiki/Data_wrangling">Data Wrangling</a>, or Data Munging.
+As a Data Analyst, you are going to spend a lot more time finding data and preparing data than you
+might have originally thought (sometimes up to 80% of your time on a project will be spent
+doing data clean-up and preparation).</p>
+
+<p>These two terms (<strong><em>Wrangling</em></strong> and <strong><em>Munging</em></strong>) are worth further defining, because each is slightly
+different.  Wrangling refers to what is necessary to identify, gather, clean, sort, and format data so
+it is suitable to use in your analysis.  The meaning is in the sense of <a href="https://www.vocabulary.com/dictionary/wrangle">wrangling cows</a>.
+Mungling is a bit more obscure.  The orginal meaning goes back to an old 60’s acronym for “Mash Until No Good” (MUNG).
+Data that has been though a lot of transformations, using different edits and formats, passed
+from system to system, database to database, can become degraded or Mung’ed.  Maybe you could more correctly
+call Data Mungling Data Un-Munging, since you are attempting to reverse the degradation so the data is more useful.</p>
+
+<h2 id="math-and-statistics-knowledge">Math and Statistics Knowledge</h2>
+
+<p>Enough knowledge of statistics is required so you can extract meaning from your data.
+So you will need to know enough statistical and mathematical methods to gain 
+insights, reveal patterns and predict outcomes. Academic types are usually very strong in this
+area, but being an expert in statistics is not necessarily required.  But you will need to
+know which techniques to apply, and most importantly will need a good understanding of the 
+meaning of the statistical outcomes of each technique.</p>
+
+<h2 id="substantive-expertise">Substantive Expertise</h2>
+
+<p>Without subject matter expertise in the area in which you are doing Data Science, pretty
+much all you will be able to do is to crunch the data you have gathered using some sort of
+mathematical model, maybe making predictions or decisions based on your input data (sometimes 
+called a “training set”). This could be described generally as machine learning, shown in the Venn
+diagram as the intersection between Hacking and Statistics Knowledge.</p>
+
+<p>But for Data Science to really be a Science, it needs to include more than just data and statistical technique.
+Conway specifially defines Science as:</p>
+
+<blockquote>
+  <p>Science is about discovery and building knowledge, which requires some motivating questions about the world and hypotheses that can be brought to data and tested with statistical methods.</p>
+</blockquote>
+
+<p>To know what questions to ask, and to fully engage in a process of testing and validation, you will need
+to know a lot about the subject area in which you are working.  Gaming Payments in different than
+Viticulture (grape growing), is different than Pharmaceutical Distribution.</p>
+
+<p>Conway also show the intersection between statistical skills and substantive expertise as
+“Traditional Research”.  This might have been true at one time, but from what I can tell from
+reading a bunch of real blog posts, academic Data Science practitioners seems to have some pretty
+good Hacking Skills!</p>
+
+<h2 id="danger-zone">Danger Zone</h2>
+
+<p>This is the area Conway identifies as the most problematic.  It consists of people
+who know the business (Substantive Expertise), who also skillful enough programmers to prepare
+some data for analysis (Hacking Skills), but aren’t sufficiently knowledgable about
+Statistics and Math to really understand the output of tools they may be using.</p>
+
+<p>I believe the reason this “zone” even exists is because there are tools that make it fairly
+easy to digest and process raw data, and to produce some type of output which might look like
+it means something.  Tools such as R language IDE’s (e.g., RStudio) and Python IDE’s (i.e., Rodeo or Spyder) make
+it pretty easy to generate some output which could be easy to misinterpret unless the
+mathematics and statisical theory behind the algorithms is understood.</p>
+
+<p>Fortunately, the more you work with these tools and the more time is spent on understanding
+the underlying mathematics, the less likely this problem is to occur.</p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p><a href="https://www.oreilly.com/library/view/machine-learning-for/9781449330514/">Machine Learning for Hackers</a> by Drew Conway, John Myles White <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+    </li>
+  </ol>
+</div>
+
+  
+</article>
+:ET
