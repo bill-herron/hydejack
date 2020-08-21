@@ -91,7 +91,7 @@ paginate_path:         /blog/:num/
 # Theme 
 # ---------------------------------------------------------------------------------------
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hydejack
 # remote_theme: hydecorp/hydejack@v9
 
 
