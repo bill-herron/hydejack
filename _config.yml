@@ -100,8 +100,8 @@ paginate_path:         /blog/:num/
 # Customizaton
 # ----------------------------------------------------------------------------------------
  
-# Sidebar image and theme color of the site (refers to folder in theme directory).
-accent_image:          /assets/img/cover.jpg
+# Sidebar image and theme color of the site
+accent_image:          /assets/img/blue_cover.jpg
 accent_color:          rgb(255, 102, 0)
 
 # This is used for the `theme-color` meta tag,
