@@ -5,7 +5,7 @@ sitemap: false
 ---
 
 <div id='container'>
- <img src='/assets/img/zanden_logo.png' style='float: right;' width="25%"/>
+ <img src='/assets/img/zanden_logo.png' style='float: right;' width='25%' class='img-responsive'/>
  <p><br>Bill Herron founded <span style="color:red; font-weight: bold;">Zanden Communications</span> in 1991, providing communications integration services to medium and large-sized companies that utilize IBM host systems (System I, iSeries, AS/400).
    His current interests include the use of Data Science in the Gaming Payments industry to discover hidden patterns and relationships that can result in better decisions.
    </p>
