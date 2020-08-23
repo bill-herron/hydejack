@@ -1,15 +1,17 @@
 ---
 layout: page
-title: Thank You!
+title: Welcome to my blog!
 sitemap: false
 ---
 
-Thank you for buying the PRO version of Hydejack! 🎉
+<div id='container'>
+ <img src='/assets/img/zanden_logo.png' style='float: right;' width="210"/>
+ <p><br>Bill Herron founded <span style="color:red; font-weight: bold;">Zanden Communications</span> in 1991, providing communications integration services to medium and large-sized companies that utilize IBM host systems (System I, iSeries, AS/400).
+   His current interests include the use of Data Science in the Gaming Payments industry to discover hidden patterns and relationships that can result in better decisions.
+   </p>
+</div>
 
-More than one year ago I was looking for a blogging platform but couldn't find it:
-One that would let me write posts in markdown with my own editor,
-one that didn't look awful buy modern design standards, and one that felt snappy on a mobile phone.
-That and more is now Hydejack. I hope you enjoy it [as much as I do](https://qwtel.com/).
+<div style="clear: both;"></div>
 
 ## First Steps
 Start by reading the [Documentation]{:.heading.flip-title}.
