@@ -33,5 +33,5 @@ The blog section of this site is divided into four main categories:
 [R Programming Language]: /blog/rcode
 [Tableau]: /blog/tableau
 [Gaming Payments]: /blog/payments
-[HydeJack]: https://hydejack.com/
+[HydeJack]: https://github.com/hydecorp/hydejack-site
 [GitHub Pages]: https://pages.github.com/
