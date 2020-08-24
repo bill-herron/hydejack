@@ -1,49 +1,37 @@
 ---
 layout: page
-title: Welcome to my blog!
+title: Welcome
 sitemap: false
 ---
 
 <div id='container'>
- <img src='/assets/img/zanden_logo.png' style='float: right;' width='35%' class='img-responsive'/>
- <p>Bill Herron founded <span style="color:red; font-weight: bold;">Zanden Communications</span> in 1991, providing communications integration services to medium and large-sized companies that utilize IBM host systems (System I, iSeries, AS/400).
-   His current interests include the use of Data Science in the Gaming Payments industry to discover hidden patterns and relationships that can result in better decisions.
+ <img src='/assets/img/zanden_logo.png' style='float: right;' width='35%' class='img-responsive' />
+ <p>Hi, I'm Bill Herron.  I founded <span style="color:#171f53; font-weight: bold;">Zanden Communications</span> in 1991, providing communications integration services to primarily Fortune 1000 companies.
+   Among my current interests is the use of Data Science in the Gaming Payments industry to discover hidden patterns and relationships that can result in better decisions.
    </p>
 </div>
 
 <div style="clear: both;"></div>
 
-## First Steps
-Start by reading the [Documentation]{:.heading.flip-title}.
-Specifically, the chapters below should be relevant now:
+This site was created with [HydeJack]{:.heading.flip-title}, a boutique Jekyll theme that turned out to be a very useful framework for a combination personal/professional
+web site running on [GitHub Pages]{:.heading.flip-title}.
 
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start with basic configuration.
-{:.related-posts.faded}
 
-After you've familiarized yourself with Hydejack, you can delete the following folders and files
-containing example content:
+## Blog Contents
 
-~~~
-├── _featured_categories
-│   └── example.md
-├── _projects
-│   └── *
-├── docs
-├── example
-├── licenses
-├── assets
-│   └── img
-│       ├── blog
-│       ├── docs
-│       └── projects
-├── CHANGELOG.md
-├── forms-by-example.md
-├── LICENSE.md
-└── NOTICE.md
-~~~
+The blog section of this site is divided into four main categories:
 
-[documentation]: docs/README.md
-[install]: docs/install.md
-[upgrade]: docs/upgrade.md
-[config]: docs/config.md
+1.  General posts on [Data Analytics]{:.heading.flip-title}.
+2.  The "Swiss Army Knife" for statisticians, the [R Programming Language]{:.heading.flip-title}. 
+3.  Articles on the use of [Tableau]{:.heading.flip-title} for creating professional-looking dashboards. 
+4.  Stories about recent technology trends in [Gaming Payments]{:.heading.flip-title}.
+
+
+
+
+[Data Analytics]: /blog/data-analytics
+[R Programming Language]: /blog/rcode
+[Tableau]: /blog/tableau
+[Gaming Payments]: /blog/payments
+[HydeJack]: https://hydejack.com/
+[GitHub Pages]: https://pages.github.com/

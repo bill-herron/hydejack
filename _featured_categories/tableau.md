@@ -3,10 +3,10 @@
 layout: grid
 
 # The title of the tag's page.
-title: R Programming Language
+title: Tableau
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: rcode
+slug: tableau
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
