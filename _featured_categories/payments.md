@@ -9,10 +9,13 @@ title: Gaming Payments
 slug: payments
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
-description: >
-  This is a featured category, which have their own page.
-  Check out `_featured_tags/example.md` to learn how to create your own.
+description: |
+ Gaming Payments generallly describes payments that cover stakes or wagers for games of chance, whether
+ at physical locations (casinos, card rooms, etc.) or at on-line locations (gaming web sites).
+ Also included are payments made for PC or console-based games that include subscriptions to play or
+ for virtual goods purchased for use in the game.
 
+  
 # (Optional) You can disable grouping posts by date.
 no_groups: true
 

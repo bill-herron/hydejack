@@ -10,8 +10,8 @@ slug: data_analytics
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a featured category, which have their own page.
-  Check out `_featured_tags/example.md` to learn how to create your own.
+  Data analytics is the science of analyzing raw data (datasets) in order to make conclusions and gather insights about that information.
+  It basically allows users to understand and see their data so better business decisions can be made.
 
 # (Optional) You can disable grouping posts by date.
 no_groups: true

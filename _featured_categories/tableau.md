@@ -10,8 +10,10 @@ slug: tableau
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a featured category, which have their own page.
-  Check out `_featured_tags/example.md` to learn how to create your own.
+  Tableau is a data visualization tool that aims to help people see and understand data.
+  Data analysis is very fast with Tableau and the visualizations created are typically in the form of dashboards and worksheets.
+  An emphasis has been placed on ease of learning and even non-technical users can create customized dashboards.
+  
 
 # (Optional) You can disable grouping posts by date.
 no_groups: true
