@@ -1,14 +1,16 @@
 ---
 layout: projects
-title: Projects
+title: Sample Projects
 show_collection: projects
 description: >
-  How people are using Hydejack in the real world. 
-  This page is built using the `projects` layout* that you can use yourself to build a portfolio.
+  Here are some sample projects that might be useful when working on your data analysis projects.
+  
+  Most projects have a corresponding public GITHUB repository where you can download the necessary
+  source files.
 no_groups: true
 ---
 
-__If you'd like to have your blog or project featured here, please contact me at [mail@qwtel.com](mailto:mail@qwtel.com).__  
-{:.note title="Call to action"}
+__Let me know if you have any questions or have any feedback on these sample projects at [bill.herron@zanden.com](mailto:bill.herron@zanden.com).__  
+{:.note title="Email me with questions..."}
 
 <br/>

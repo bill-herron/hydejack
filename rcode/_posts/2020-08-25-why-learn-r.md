@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Learn R?
-image: /assets/img/blog/rlogo2.jpg
+image: /assets/img/blog/rlogo4.png
 description: >
   R is both a language and environment for statistical computing.  [What is R?](https://www.r-project.org/about.html#:~:text=The%20S%20language%20is%20often,to%20participation%20in%20that%20activity.&text=R%20is%20available%20as%20Free,License%20in%20source%20code%20form.).
 sitemap: false
@@ -49,10 +49,15 @@ Reading through many articles and trying out each tool, I came to the following 
     impressive, and a lot of Data Science jobs postings list Tableau experience as as requirement.
 
 	
-I would suggest just starting with any of the above...
+In the end, I decided to [learn R first](https://www.burns-stat.com/documents/tutorials/why-use-the-r-language/).  The R IDE (RStudio) is very nice, is available as open source
+and readily installed on my laptop. It can run locally on your desktop, or on a server for really big
+datasets.  Third party support is very extensive, and the number and quality of tutorials
+I found on-line was impressive.  I liked that I was able to build dashboards from withing R (using Shiny and Shinydashboard)
+and that many R references and articles I found emphasized the statistical meaning of R's output (a lot of
+the authors were academic and obviously had a good grounding in statistics and mathematics).
 
-<p align="center">
+<!--- <p align="center">
   <img alt="img-name" src="/assets/img/blog/journey.jpg" width="410">
   <br>
-    <em>Just Start!</em>
-</p>
+    <em>It's a journey...</em>
+</p> --->

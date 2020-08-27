@@ -10,7 +10,7 @@ slug: payments
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: |
- Gaming Payments generallly describes payments that cover stakes or wagers for games of chance, whether
+ Gaming Payments generally describes payments that cover stakes or wagers for games of chance, whether
  at physical locations (casinos, card rooms, etc.) or at on-line locations (gaming web sites).
  Also included are payments made for PC or console-based games that include subscriptions to play or
  for virtual goods purchased for use in the game.
