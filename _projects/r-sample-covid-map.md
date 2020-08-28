@@ -13,9 +13,9 @@ image:
     640w: /assets/img/projects/sample_map_sonoma@0.25x.PNG
 
 links: 
-  - title: Document on RPUBS
+  - title: Document on RPubs
     url: https://rpubs.com/BillHerron/covid-19-Sonoma_County
-  - title: Repository on GITHUB
+  - title: Repository on GitHub
     url: https://github.com/bill-herron/sonoma_county_snf.git
 
 accent_color: '#4fb1ba'
