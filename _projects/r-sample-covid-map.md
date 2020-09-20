@@ -13,25 +13,26 @@ image:
     640w: /assets/img/projects/sample_map_sonoma@0.25x.PNG
 
 links: 
-  - title: Document on RPubs
-    url: https://rpubs.com/BillHerron/covid-19-Sonoma_County
   - title: Repository on GitHub
     url: https://github.com/bill-herron/sonoma_county_snf.git
 
 accent_color: '#4fb1ba'
 accent_image:
   background: 'linear-gradient(to bottom, #0a7b81 0%, #01636e 25%, #02505b 50%, #073a4a 75%, #082e39 100%)'
+  background: 'linear-gradient(to bottom, #7f7053 0%, #72654b 25%, #665a42 50%, #594e3a 75%, #4c4332 100% )'
+  background: 'linear-gradient(to bottom, #665a42 0%, #594e3a 25%, #4c4332 50%, #40382a 75%, #332d21 100% )'
+  
   overlay:    true
 sitemap: false
 ---
 
-Everybody has been impacted a little differently by the Covid-19 epidemic.  In our local area,
+Everybody has been impacted a little differently by the Covid-19 epidemic.  In Sonoma County (Northern California),
 the hotspots are skilled nursing facilties (SNF's).  
 
 I pieced together some data from the State of California, plus some data I took from the local newspaper.
 It was surprising how "poor" the data was, a lot of cleanup was required, plus some manual entry and reformatting
 of the spreadsheet.  The source of data for this example is the spreadsheet, which has been included
-in the GITHUB repository.
+in the GitHub repository.
 
 The difficult part was to figure out away for the markers to group together nearby locations
 while still showing infection severity with the use of colors on the grouped icon.
